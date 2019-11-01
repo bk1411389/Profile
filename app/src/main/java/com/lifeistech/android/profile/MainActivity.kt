@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             myLikeSportsButton.setBackgroundColor(Color.parseColor("#929292"))
             myLikeFoodsButton.setBackgroundColor(Color.parseColor("#929292"))
             myLikeHobbyButton.setBackgroundColor(Color.parseColor("#929292"))
-            myText.text = "へーる"
+            myText.text = "？？？"
         }
 
         myLikeSportsButton.setOnClickListener{
